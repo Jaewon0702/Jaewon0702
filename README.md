@@ -1,4 +1,5 @@
-## Hi there 👋
+## Introduction 👋
+Hello! I am a graduate student in Industrial and Operational Engineering at the University of Michigan, Ann Arbor.
 
 <!--
 **Jaewon0702/Jaewon0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
