@@ -5,7 +5,7 @@ Hello! I am a graduate student in Industrial and Operational Engineering at the 
 [Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/)
 
 ## Projects with My Work
-[U can't Touch This](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)
+[U can't Touch This](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
 [Smart Laboratory Access System](https://youtu.be/EeuJTdXaXRo?si=a0vzYDZGTk2W_eqY)
 
 <!--
