@@ -1,5 +1,5 @@
 ## Introduction 👋
-Hello! I am a graduate student in Industrial and Operational Engineering at the University of Michigan, Ann Arbor.
+Hello! I am a graduate student in Industrial and Operational Engineering at the University of Michigan, Ann Arbor. My research interests include AI Optimization, Game development and supply chain management!  
 
 ## Contact me on Social Media
 [Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/)
