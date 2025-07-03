@@ -2,8 +2,10 @@
 Hello! I am a graduate student in Industrial and Operational Engineering at the University of Michigan, Ann Arbor.
 
 ## Contact me on Social Media
-[Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/)  
-Email: jwlee8291@gmail.com
+[Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/) |
+<button type="button" onclick="navigator.clipboard.writeText('jwlee8291@gmail.com')">
+    Email
+</button>
 
 ## Projects with My Work
 [U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
