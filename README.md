@@ -8,7 +8,7 @@ Hello! I am a graduate student in Industrial and Operational Engineering at the 
 [U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
 [Smart Laboratory Access System](https://youtu.be/EeuJTdXaXRo?si=a0vzYDZGTk2W_eqY)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwlee8291@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jwlee8291)
 
 <!--
 **Jaewon0702/Jaewon0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
