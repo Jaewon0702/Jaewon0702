@@ -1,11 +1,17 @@
 ## Introduction 👋
-Hello! I am a graduate student in Industrial and Operational Engineering at the University of Michigan, Ann Arbor. My research interests include AI Optimization, Game development and supply chain management!  
+Hello! I am a graduate student in Industrial and Operational Engineering at the University of Michigan, Ann Arbor.
 
 ## Contact me on Social Media
 [Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/)
-]
+
+## Projects with My Work
+[U can't Touch This](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)
+[Smart Laboratory Access System](https://youtu.be/EeuJTdXaXRo?si=a0vzYDZGTk2W_eqY)
+
 <!--
 **Jaewon0702/Jaewon0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
