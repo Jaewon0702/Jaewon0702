@@ -3,7 +3,7 @@ Hello! I am a graduate student in Industrial and Operational Engineering at the 
 
 ## Contact me on Social Media
 [Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/) |
-email: jwlee8291@gmail.com
+jwlee8291@gmail.com
 
 ## Projects with My Work
 [U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
