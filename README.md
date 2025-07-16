@@ -8,7 +8,7 @@ jwlee8291@gmail.com
 ## Projects with My Work
 Video Game  
 [U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
-Computer Vision  
+Artificial Intelligence  
 [Smart Laboratory Access System](https://youtu.be/EeuJTdXaXRo?si=a0vzYDZGTk2W_eqY)
 
 <!--
