@@ -23,6 +23,8 @@ I am particularly interested in bridging research and practice—translating ins
 
 *Work in progress — publication in preparation.*
 
+🔒 Research code and experimental pipelines are maintained in a private lab repository in accordance with research and IRB policies.
+
 
 ## Contact me on Social Media
 [Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/) |
