@@ -5,6 +5,24 @@ My work focuses on human-centered AR/VR systems, where I design and build immers
 
 I am particularly interested in bridging research and practice—translating insights from Human-Computer Interaction (HCI) and cognitive science into deployable XR systems, experimental platforms, and real-world applications.
 
+## 🧪 Ongoing Research Projects
+
+### Mixed Reality Interfaces for Human Attention, Perception, and Human–Automation Interaction
+
+**Role:** Mixed Reality Research Developer (XR)  
+**Lab:** Dr. Amelia Warden’s Lab, University of Michigan, Ann Arbor  
+
+- Conducting Human–Computer Interaction (HCI) research on how computer-generated visual information can be delivered accurately and efficiently, while enabling users to detect incorrect system guidance and maintain independent judgment.
+- Designing, building, and deploying AR/VR experimental applications in **Unity (C#)** across **HoloLens**, **Magic Leap 2**, and **Meta Quest Pro**, supporting studies in attention, perception, and human–automation interaction.
+- Contributing to two ongoing research projects:
+  - **Low-Vision Pedestrian–Computer Interaction:** Investigating how to communicate walk-signal **High Priority Objects (HPOs)** to visually impaired pedestrians using XR-based visual guidance.
+  - **Soldier–AR/VR Device Interaction:** Studying how AI-identified bomb-related HPOs can be communicated effectively in VR combat scenarios.
+- Serving as a **solo XR developer**, owning the full pipeline from experimental concept and system architecture to implementation, pilot testing, deployment, and day-to-day operational support.
+- Developing a **cue-based visual guidance system** to communicate AI-identified HPO locations, evaluating how different cue designs impact response speed, accuracy, user trust, and reliance on automation.
+- Building and maintaining **data collection and logging pipelines** for experimental analysis, ensuring reliable capture of trial conditions, user responses, and system states.
+
+*Work in progress — publication in preparation.*
+
 
 ## Contact me on Social Media
 [Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/) |
