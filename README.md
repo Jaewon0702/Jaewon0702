@@ -1,5 +1,10 @@
 ## Introduction 👋
-Hello! I am a graduate student in Industrial and Operational Engineering at the University of Michigan, Ann Arbor. My work focuses on AI engineering particularly at the intersection of generative AI, simulation, video game development and supply chain management.
+Hello! I am a graduate student in Industrial and Operations Engineering at the University of Michigan, Ann Arbor, and a Mixed Reality Research Developer (XR) working with (Prof. Amelia Warden)[https://ioe.engin.umich.edu/people/warden-amelia-c/].
+
+My work focuses on human-centered AR/VR systems, where I design and build immersive XR prototypes to study human perception, attention, and interaction in mixed reality environments. I actively develop experimental XR applications using Unity and C#, integrating perceptual research, simulation, and interactive system design to explore how emerging display technologies impact user experience.
+
+I am particularly interested in bridging research and practice—translating insights from Human-Computer Interaction (HCI) and cognitive science into deployable XR systems, experimental platforms, and real-world applications.
+
 
 ## Contact me on Social Media
 [Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/) |
