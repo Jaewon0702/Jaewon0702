@@ -5,7 +5,7 @@ My work focuses on human-centered AR/VR systems, where I design and build immers
 
 I am particularly interested in bridging research and practice—translating insights from Human-Computer Interaction (HCI) and cognitive science into deployable XR systems, experimental platforms, and real-world applications.
 
-## 🧪 Ongoing Research Projects
+## Ongoing Research Projects
 
 ### Mixed Reality Interfaces for Human Attention, Perception, and Human–Automation Interaction
 
@@ -23,7 +23,7 @@ I am particularly interested in bridging research and practice—translating ins
 
 *Work in progress — publication in preparation.*
 
-🔒 Research code and experimental pipelines are maintained in a private lab repository in accordance with research and IRB policies.
+* Research code and experimental pipelines are maintained in a private lab repository in accordance with research and IRB policies.
 
 
 ## Contact me on Social Media
