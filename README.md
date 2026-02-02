@@ -1,13 +1,13 @@
-### Introduction 👋
+# Introduction 👋
 Hello! I am a graduate student in Industrial and Operations Engineering at the University of Michigan, Ann Arbor, and a Mixed Reality Research Developer (XR) working with [Prof. Amelia Warden](https://ioe.engin.umich.edu/people/warden-amelia-c/).
 
 My work focuses on human-centered AR/VR systems, where I design and build immersive XR prototypes to study human perception, attention, and interaction in mixed reality environments. I actively develop experimental XR applications using Unity and C#, integrating perceptual research, simulation, and interactive system design to explore how emerging display technologies impact user experience.
 
 I am particularly interested in bridging research and practice—translating insights from Human-Computer Interaction (HCI) and cognitive science into deployable XR systems, experimental platforms, and real-world applications.
 
-### Ongoing Research Projects
+# Ongoing Research Projects
 
-### Mixed Reality Interfaces for Human Attention, Perception, and Human–Automation Interaction
+# Mixed Reality Interfaces for Human Attention, Perception, and Human–Automation Interaction
 
 **Role:** Mixed Reality Research Developer (XR)  
 **Lab:** Dr. Amelia Warden’s Lab, University of Michigan, Ann Arbor  
@@ -26,43 +26,54 @@ I am particularly interested in bridging research and practice—translating ins
 🔐 Research code and experimental pipelines are maintained in a private lab repository in accordance with research and IRB policies.
 
 
-### Contact me on Social Media
+# Contact me on Social Media
 [Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/) |
 jwlee8291@gmail.com
 
-### Projects with My Work
+# Projects with My Work
 
 ## Interactive Unity Experience Prototype
 
 # Demo Preview
 ![U_Cant_Touch_This](https://github.com/user-attachments/assets/d17daf2c-0252-49a1-9e60-f6d82de55f17)
 
-# Full Demo Video
+## Full Demo Video
 ▶ [U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
 
-# Overview
+## Overview
 This project demonstrates an interactive real-time prototype built in Unity.
 The focus is on responsive user interaction and immersive experience design.
 
 > Note: Source code is not publicly available due to ongoing academic research.
 Visual documentation and demo outcomes are provided.
 
-# Key Contributions
+## Key Contributions
 - Built a real-time interactive prototype in Unity (C#)
 - Designed feedback-driven interaction mechanics
 - Demonstrates skills relevant to multimodal passenger experiences
 
 ## Tools
 Unity, C#, XR Interaction Toolkit
-Video Game  
-[U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
-![U_Cant_Touch_This](https://github.com/user-attachments/assets/d17daf2c-0252-49a1-9e60-f6d82de55f17)
-Artificial Intelligence  
+
+# Arduino + Computer Vision Prototype
+
+## Demo Preview
 ![Smart_Laboratory_Access_System (1)](https://github.com/user-attachments/assets/0799d474-5094-4d50-81ce-5ebdc6c5e372)
 ![Smart_Laboratory_Access_System](https://github.com/user-attachments/assets/677d7df1-9dcf-4b58-a6d3-b08f3164069e)
 
+## Full Demo Video
+▶ [Smart Laboratory Access System](https://youtu.be/EeuJTdXaXRo?si=a0vzYDZGTk2W_eqY)
 
-[Smart Laboratory Access System](https://youtu.be/EeuJTdXaXRo?si=a0vzYDZGTk2W_eqY)
+## Overview
+Hardware-software integration prototype combining Arduino with computer vision.
+
+## Key Contributions
+- Integrated microcontroller with vision-based triggers
+- Built real-time sensor-driven interaction loop
+- Demonstrates embedded prototyping skills
+
+## Tools
+Arduino, OpenCV, Python
 
 <!--
 **Jaewon0702/Jaewon0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
