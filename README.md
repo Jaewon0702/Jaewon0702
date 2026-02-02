@@ -35,6 +35,10 @@ Video Game
 [U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
 ![U_Cant_Touch_This](https://github.com/user-attachments/assets/d17daf2c-0252-49a1-9e60-f6d82de55f17)
 Artificial Intelligence  
+![Smart_Laboratory_Access_System (1)](https://github.com/user-attachments/assets/0799d474-5094-4d50-81ce-5ebdc6c5e372)
+![Smart_Laboratory_Access_System](https://github.com/user-attachments/assets/677d7df1-9dcf-4b58-a6d3-b08f3164069e)
+
+
 [Smart Laboratory Access System](https://youtu.be/EeuJTdXaXRo?si=a0vzYDZGTk2W_eqY)
 
 <!--
