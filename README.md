@@ -29,13 +29,11 @@ I am particularly interested in bridging research and practice—translating ins
 ## Contact me on Social Media
 [Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/) |
 jwlee8291@gmail.com
-![U_Cant_Touch_This](https://github.com/user-attachments/assets/d17daf2c-0252-49a1-9e60-f6d82de55f17)
 
 ## Projects with My Work
 Video Game  
 [U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
-
-
+![U_Cant_Touch_This](https://github.com/user-attachments/assets/d17daf2c-0252-49a1-9e60-f6d82de55f17)
 Artificial Intelligence  
 [Smart Laboratory Access System](https://youtu.be/EeuJTdXaXRo?si=a0vzYDZGTk2W_eqY)
 
