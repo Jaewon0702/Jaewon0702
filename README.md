@@ -34,7 +34,7 @@ jwlee8291@gmail.com
 
 ## Interactive Unity Experience Prototype
 
-# Demo Preview
+## Demo Preview
 ![U_Cant_Touch_This](https://github.com/user-attachments/assets/d17daf2c-0252-49a1-9e60-f6d82de55f17)
 
 ## Full Demo Video
