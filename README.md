@@ -31,6 +31,29 @@ I am particularly interested in bridging research and practice—translating ins
 jwlee8291@gmail.com
 
 ## Projects with My Work
+
+# Interactive Unity Experience Prototype
+
+## Demo Preview
+![U_Cant_Touch_This](https://github.com/user-attachments/assets/d17daf2c-0252-49a1-9e60-f6d82de55f17)
+
+## Full Demo Video
+▶ [U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
+
+## Overview
+This project demonstrates an interactive real-time prototype built in Unity.
+The focus is on responsive user interaction and immersive experience design.
+
+> Note: Source code is not publicly available due to ongoing academic research.
+Visual documentation and demo outcomes are provided.
+
+## Key Contributions
+- Built a real-time interactive prototype in Unity (C#)
+- Designed feedback-driven interaction mechanics
+- Demonstrates skills relevant to multimodal passenger experiences
+
+## Tools
+Unity, C#, XR Interaction Toolkit
 Video Game  
 [U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
 ![U_Cant_Touch_This](https://github.com/user-attachments/assets/d17daf2c-0252-49a1-9e60-f6d82de55f17)
