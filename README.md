@@ -33,6 +33,8 @@ jwlee8291@gmail.com
 ## Projects with My Work
 Video Game  
 [U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
+<img width="809" height="455" alt="image" src="https://github.com/user-attachments/assets/b367ac80-debf-44d9-bfba-abfac78ffb1a" />
+
 Artificial Intelligence  
 [Smart Laboratory Access System](https://youtu.be/EeuJTdXaXRo?si=a0vzYDZGTk2W_eqY)
 
