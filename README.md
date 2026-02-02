@@ -1,11 +1,11 @@
-## Introduction 👋
+### Introduction 👋
 Hello! I am a graduate student in Industrial and Operations Engineering at the University of Michigan, Ann Arbor, and a Mixed Reality Research Developer (XR) working with [Prof. Amelia Warden](https://ioe.engin.umich.edu/people/warden-amelia-c/).
 
 My work focuses on human-centered AR/VR systems, where I design and build immersive XR prototypes to study human perception, attention, and interaction in mixed reality environments. I actively develop experimental XR applications using Unity and C#, integrating perceptual research, simulation, and interactive system design to explore how emerging display technologies impact user experience.
 
 I am particularly interested in bridging research and practice—translating insights from Human-Computer Interaction (HCI) and cognitive science into deployable XR systems, experimental platforms, and real-world applications.
 
-## Ongoing Research Projects
+### Ongoing Research Projects
 
 ### Mixed Reality Interfaces for Human Attention, Perception, and Human–Automation Interaction
 
@@ -26,28 +26,28 @@ I am particularly interested in bridging research and practice—translating ins
 🔐 Research code and experimental pipelines are maintained in a private lab repository in accordance with research and IRB policies.
 
 
-## Contact me on Social Media
+### Contact me on Social Media
 [Personal Website](https://jaewon0702.github.io/) | [LinkedIn](https://www.linkedin.com/in/jaewon-lee-4a6a17203/) |
 jwlee8291@gmail.com
 
-## Projects with My Work
+### Projects with My Work
 
-# Interactive Unity Experience Prototype
+## Interactive Unity Experience Prototype
 
-## Demo Preview
+# Demo Preview
 ![U_Cant_Touch_This](https://github.com/user-attachments/assets/d17daf2c-0252-49a1-9e60-f6d82de55f17)
 
-## Full Demo Video
+# Full Demo Video
 ▶ [U Can't Touch This!](https://youtu.be/AyCvZPvtb8w?si=Eva6QNFzx4uHLYvX)  
 
-## Overview
+# Overview
 This project demonstrates an interactive real-time prototype built in Unity.
 The focus is on responsive user interaction and immersive experience design.
 
 > Note: Source code is not publicly available due to ongoing academic research.
 Visual documentation and demo outcomes are provided.
 
-## Key Contributions
+# Key Contributions
 - Built a real-time interactive prototype in Unity (C#)
 - Designed feedback-driven interaction mechanics
 - Demonstrates skills relevant to multimodal passenger experiences
